@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/static/css/main.79905977.css",
+    "main.js": "/static/js/main.f185287a.js",
+    "static/js/787.cb1280d8.chunk.js": "/static/js/787.cb1280d8.chunk.js",
+    "static/media/internshipbrochure.pdf": "/static/media/internshipbrochure.4302edfb1d239f079d8b.pdf",
+    "static/media/placementbrochure.pdf": "/static/media/placementbrochure.2619233d7fec8951a361.pdf",
+    "static/media/lumiq.png": "/static/media/lumiq.5b13b6dda2badd05c5ca.png",
+    "static/media/logo.png": "/static/media/logo.12c515ff001c4f35b137.png",
+    "static/media/cognizant.jpg": "/static/media/cognizant.4e3361632a623e4d888a.jpg",
+    "static/media/back.jpeg": "/static/media/back.5b178b4d585c405a5578.jpeg",
+    "static/media/ZS.png": "/static/media/ZS.177d320ef12b1b9fd7df.png",
+    "static/media/teradata.png": "/static/media/teradata.492a622ecc57f2b16121.png",
+    "static/media/Credgenics.jpg": "/static/media/Credgenics.e7bdd19189b30293920e.jpg",
+    "static/media/tricon-infotech.png": "/static/media/tricon-infotech.b7c81f05c4d08e34a0ec.png",
+    "static/media/govivace.png": "/static/media/govivace.583c92d5f22b0793e36d.png",
+    "static/media/ANM-Consultants.png": "/static/media/ANM-Consultants.50db295872106e43c1fa.png",
+    "static/media/big-basket.png": "/static/media/big-basket.5a1bfad3c8d40c8149cd.png",
+    "static/media/tiger-analytics.png": "/static/media/tiger-analytics.8889f823d57ba597be96.png",
+    "static/media/american-express.png": "/static/media/american-express.249e1f6d7e1cfa9805e1.png",
+    "static/media/HashedIn.jpg": "/static/media/HashedIn.3e4c1b6645f87d33af2f.jpg",
+    "static/media/mediaditnet.png": "/static/media/mediaditnet.af017f09824f69231c0f.png",
+    "static/media/deltax.png": "/static/media/deltax.1e726f86b8c1fa0e05e7.png",
+    "static/media/steradian.jpeg": "/static/media/steradian.5470a33836043a200e68.jpeg",
+    "static/media/ericsson.png": "/static/media/ericsson.7e08f9080ed057c76c3b.png",
+    "static/media/wd.png": "/static/media/wd.6d543ed252464424d195.png",
+    "static/media/tekion.jpg": "/static/media/tekion.5c6dc05d76864379a5d6.jpg",
+    "static/media/infosys.png": "/static/media/infosys.d78e789b56a1ef3ffed1.png",
+    "static/media/juspay.webp": "/static/media/juspay.6434fbb0c8221ff59fbc.webp",
+    "static/media/SpanIdea.png": "/static/media/SpanIdea.d2894093ffc5589232bd.png",
+    "static/media/director.jpeg": "/static/media/director.ba2ff7d40ef68cf284bf.jpeg",
+    "static/media/codenation.webp": "/static/media/codenation.1a9e49d8c90647dae6b8.webp",
+    "static/media/deloitte.webp": "/static/media/deloitte.bda11c6d3093bd10f80c.webp",
+    "index.html": "/index.html",
+    "main.79905977.css.map": "/static/css/main.79905977.css.map",
+    "main.f185287a.js.map": "/static/js/main.f185287a.js.map",
+    "787.cb1280d8.chunk.js.map": "/static/js/787.cb1280d8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.79905977.css",
+    "static/js/main.f185287a.js"
+  ]
+}
